@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Test web:)",
     introTitle: 'Linh',
     introDesc: `Tao cần hỏi m câu này,phải trả lời thật lòng.Nếu không thì m sắp hấp hối rồi đấy:))))))`,
-    btnIntro: 'OK,
+    btnIntro: 'OKOK,
     title: 't yêu m đó m có yêu t ko',
     desc: 'Nếu m thoát web m đồng ý làm cr t ,và m sẽ nhận lời nguyền "ko bao giờ từ Đàm daddy" :))))',
     btnYes: 'CÓ',
